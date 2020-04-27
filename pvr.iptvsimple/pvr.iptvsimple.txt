@@ -1,1 +1,1 @@
-pvr.iptvsimple git@git.yachtcloud.eu:yachtcloud/OmniPlayer/pvr.iptvsimple.git develop
+pvr.iptvsimple https://github.com/a1rwulf/pvr.iptvsimple omniyon
