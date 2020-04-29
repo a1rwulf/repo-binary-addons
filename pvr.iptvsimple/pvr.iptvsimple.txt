@@ -1,1 +1,1 @@
-pvr.iptvsimple https://github.com/a1rwulf/pvr.iptvsimple omniyon
+pvr.iptvsimple https://github.com/a1rwulf/pvr.iptvsimple Playa
